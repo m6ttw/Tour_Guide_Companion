@@ -1,4 +1,4 @@
-This is an app made for tour guides to share handy tips with each other using Google Maps, made using JavaScript, React, Java, Spring, and H2 database.
+This is an app made for tour guides to share handy tips with each other using Google Maps, made using React, Spring and H2 database.
 
 The map is pre-populated with some starter data in the form of markers which show up on the map
 
